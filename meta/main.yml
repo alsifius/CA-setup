@@ -1,6 +1,6 @@
 galaxy_info:
-  author: your name
-  description: your description
+  author: Albert Roberson
+  description: Setup newly provisioned systems for Certificate Systems base install
   company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
